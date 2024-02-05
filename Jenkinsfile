@@ -1,0 +1,4 @@
+checkout()
+build()
+deploy()
+
