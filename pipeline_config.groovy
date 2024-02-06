@@ -5,6 +5,10 @@
     all apps governed by this config. 
 */
 libraries{
-  java
-  node
+  java{
+    configServer = "esto es Java"
+  }
+  node{
+    configServer = "esto es Node"
+  }
 }
