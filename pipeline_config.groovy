@@ -8,7 +8,4 @@ libraries{
   java{
     configServer = "esto es Java"
   }
-  node{
-    configServer = "esto es Node"
-  }
 }
