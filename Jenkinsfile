@@ -1,4 +1,0 @@
-checkout()
-build()
-deploy()
-
